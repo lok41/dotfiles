@@ -1,0 +1,51 @@
+app-text/evince djvu
+dev-lang/python sqlite
+app-i18n/ibus-pinyin opencc
+app-editors/emacs sound 
+app-i18n/ibus-pinyin gtk
+media-video/mplayer openal oss win32codecs v4l gsm v4l2 fontconfig xinerama
+sys-devel/gdb -python
+dev-lang/ghc binary
+dev-scheme/guile -deprecated
+dev-scheme/guile -deprecated networking
+xfce-extra/tumbler ffmpeg gstreamer
+media-sound/audacious cue ffmpeg
+media-plugins/audacious-plugins cue ffmpeg
+net-analyzer/wireshark python doc
+app-editors/vim python perl
+app-arch/p7zip -wxwidgets
+app-arch/p7zip -wxwidgets rar
+media-libs/opencv python ffmpeg gstreamer
+x11-libs/qt-sql mysql
+x11-themes/gtk-engines-murrine animation
+sys-devel/gdb python
+dev-util/qt-creator autotools git doc cmake
+x11-libs/qt-assistant doc
+www-servers/tomcat doc
+dev-python/ipython -wxwidgets
+dev-lang/ruby examples doc
+dev-python/django mysql sqlite
+dev-lang/php apache2 cgi doc ftp gmp mysql sqlite3 xmlrpc xpm zip
+dev-lang/php apache2 cgi doc ftp gmp mysql sqlite3 xmlrpc xpm zip truetype exif 
+dev-lang/erlang -wxwidgets hipe doc
+x11-themes/gtk-engines-murrine -themes
+www-client/links -deprecated
+media-libs/gd fontconfig
+x11-libs/wxGTK gstreamer
+media-sound/audacity ffmpeg id3tag midi
+gnome-base/gdm xinerama
+x11-misc/xscreensaver gdm new-login xinerama
+x11-wm/compiz-fusion emerald
+app-admin/conky audacious weather-metar -weather-xoap wifi
+media-gfx/blender blender-game ffmpeg openal verse
+media-video/ffmpeg theora gsm libv4l network openal oss amr schroedinger dirac openssl vpx
+virtual/ffmpeg theora
+app-admin/conky lua lua-cairo weather-xoap math iostats lua-imlib
+dev-java/oracle-jdk-bin nsplugin
+app-emulation/wine capi fontconfig gsm gstreamer openal xinerama xcomposite
+=media-gfx/gimp-2.8.0-r1 ~x86
+gnome-base/librsvg -introspection
+www-client/firefox wifi
+app-emulation/virtualbox additions alsa extensions pam qt4
+dev-python/PyQt4 webkit
+

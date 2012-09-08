@@ -1,0 +1,6 @@
+=sys-devel/llvm-3.1
+=sys-devel/clang-3.1-r2
+>=sys-devel/clang-3.1
+>=www-client/google-chrome-20.0
+>x11-drivers/ati-drivers-12.4
+
